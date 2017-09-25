@@ -1,0 +1,22 @@
+page-locate {
+        canvas, img { display:block; margin:1em auto; border:1px solid black; }
+        canvas { 
+        background:url(http://management.ind.in/img/k/ISAT-JMU-Hours-4.jpg);
+        background-size:contain;
+   		background-repeat:no-repeat; }
+.ios, .md {
+ 
+    page-home {
+ 
+        .scroll-content {
+            background-color: map-get($colors, light);
+        }
+ 
+        ion-card-header {
+            font-weight: bold;
+        }
+ 
+    }
+ 
+}
+}
